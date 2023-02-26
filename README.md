@@ -6,4 +6,6 @@ The game uses the 'conio.h' and 'windows.h' libraries to enable console output, 
 The game has four enemies that move vertically within the game area. The game difficulty increases as the player collects more coins, which makes the enemies move faster. The game keeps track of the player's score and the elapsed time. The game ends when the player collides with any of the enemies.
 
 This code can be used as an example for students learning C programming language or as a starting point for developing a simple console-based game.
+
+
 ![2023-02-26 17_16_58-C__Users_ataug_Masaüstü_a exe](https://user-images.githubusercontent.com/67643531/221416550-462ed02e-71c6-46cc-8858-8b19ac3952fe.png)
